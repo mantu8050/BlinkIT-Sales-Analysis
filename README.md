@@ -20,8 +20,8 @@ The following global KPIs were calculated to set the overall performance baselin
 
 | KPI | Value | Description |
 | :--- | :--- | :--- |
-| *Sum of Total Sales* | $\mathbf{\$1,201,681.49}$ | The total revenue across all outlets. |
-| *Average Sales* | $\mathbf{\$140.99}$ | The average sales value per transaction. |
+| *Sum of Total Sales* | $\mathbf{\$1,201,681 }$ | The total revenue across all outlets. |
+| *Average Sales* | $\mathbf{\$141}$ | The average sales value per transaction. |
 | *Number of Items Sold* | $\mathbf{8,523}$ | The total count of unique items in the dataset. |
 | *Average Customer Rating* | $\mathbf{3.97}$ | The average satisfaction score for the outlets. |
 
